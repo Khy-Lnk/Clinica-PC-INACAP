@@ -1,0 +1,4 @@
+QRCode for JavaScript (c) 2009 Kazuhiko Arase, https://www.d-project.com/
+MIT License, see https://opensource.org/licenses/MIT
+Bundled from qrcode-terminal QRCode vendor in npm (Apache 2.0 packaging), see QR_APACHE_LICENSE.txt.
+The word QR Code is a registered trademark of DENSO WAVE INCORPORATED.
