@@ -19,7 +19,7 @@ Para pruebas automáticas, ejecutar `npm test`. Para comprobar el bundle localme
 
 **IMPORTANTE:** el login, almacenamiento, roles, notificaciones y encuesta son *simulados* porque este proyecto es solo frontend. No debe utilizarse con datos reales de clientes. Todo lo que se introduce se almacena en el `localStorage` del navegador; una URL distinta, otro navegador o un teléfono **no comparten datos** con este equipo.
 
-## Credenciales de demostración (¡no usar en producción!)
+## Credenciales de demostración
 
 | Rol | Usuario | Contraseña de demostración |
 |---|---|---|
